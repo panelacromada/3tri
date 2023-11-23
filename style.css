@@ -1,0 +1,43 @@
+body{
+    background: black;   
+}
+h1{
+    font-size: 60px;
+    color: #3C038C;
+    font: Burbank Big Condense;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    color: #05C7F2;
+    font: Stencil Std, fantasy;
+    text-align: center;
+}
+.IMG{
+    width: 300px;
+    height: 200px;
+    margin-left: 225px;
+
+}
+.cabecalho{
+    background-color: #05C7F2;
+    display: flex;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.item_lista_cabecalho{
+    color: #260259;
+    list-style: none;
+    text-transform: uppercase;
+    font-size: 30px;
+    padding-left: 130px;
+}
+.Logo{
+    width: 150px;
+    height: 150px;
+    margin-left: 200px;
+    display: inline;
+}
